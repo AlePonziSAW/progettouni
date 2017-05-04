@@ -1,4 +1,5 @@
 <?php
+//cose
 
 function alreadyexist($name) {
     $myfile = fopen("accounts.txt", "r");
