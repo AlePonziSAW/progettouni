@@ -1,5 +1,7 @@
 <?php
 
+//ANDRE CULO
+
 function credentialsok($name) {
     $myfile = fopen("accounts.txt", "r");
 	echo "fino qui <br>";
