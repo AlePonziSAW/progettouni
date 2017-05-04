@@ -10,4 +10,6 @@ session_destroy();
 echo "bla";
 header('location: index.php');
 
+//ciao belli
+
 ?>
