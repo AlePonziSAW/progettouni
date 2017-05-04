@@ -1,5 +1,7 @@
 <?php
 
+//ma il server della rimba vi faceva schifo??
+
 function credentialsok($name) {
     $myfile = fopen("accounts.txt", "r");
 	echo "fino qui <br>";
